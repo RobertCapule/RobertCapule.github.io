@@ -6,7 +6,7 @@ html {
   background-size: cover;
 }
 .div{
-  background-color: blue;
+  background: rgba(0, 0, 0, 7);
   width: 450px;
   text-align: center;
   margin: auto;
