@@ -11,6 +11,9 @@ html {
   text-align: center;
   margin: auto;
   margin-top:5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 5%
   color: white;
   font-family:'Century Gothic', sans-serif;
 }
