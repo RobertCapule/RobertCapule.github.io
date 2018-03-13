@@ -6,7 +6,7 @@ html {
   background-size: cover;
 }
 .content{
-  background-color: rgba(0,0,0,0,10);
+  background-color: rgba(0,0,0,0,100);
   color: white;
-  padding: 50px;
+  padding: 500px;
 }
