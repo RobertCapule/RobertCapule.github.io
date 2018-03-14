@@ -1,7 +1,7 @@
 <style>
 
 html { 
-	  background: url(https://i.pinimg.com/originals/ff/57/46/ff574650ff3f1415da42ee300e32875c.jpg) no-repeat center center fixed; 
+	  background: url("https://i.pinimg.com/originals/ff/57/46/ff574650ff3f1415da42ee300e32875c.jpg") no-repeat center center fixed; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
