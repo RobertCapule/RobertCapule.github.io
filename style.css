@@ -9,7 +9,15 @@ html {
 	}
 	.content{
 	  background: rgba(0, 0, 0, 0, 7);
-	  text-color: white;
+	 width: 450px;
+	  text-align: center;
+	  margin: auto;
+	  margin-top:5%;
+	  margin-bottom: 5%;
+	  margin-left: 5%;
+	  margin-right: 5%
+	 
+	  font-family:'Century Gothic', sans-serif;
 	  
 	}
 </style>
